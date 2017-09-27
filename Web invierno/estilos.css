@@ -1,0 +1,92 @@
+body {
+background : #C0D9D9 url("pack-imagenes/fondo.gif") repeat;
+font : 8pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+color : #666666;
+margin : 20px 0px 20px 0px;
+text-align: center;
+}
+
+#contenedor{
+text-align: left;
+width: 700px;
+background-color : #ffffff;
+margin: auto;
+}
+
+#cabecera{
+	height : 106px;
+	width: 700px;
+}
+#navegador{
+	background : #F5F4C3 url("pack-imagenes/fondonav.gif");
+	padding : 3px 10px 5px 10px;
+	border-top : 1px solid #cccccc;
+	border-bottom : 1px solid #cccccc;
+}
+#cuerpo{
+	float:left;
+	width:480px;
+	margin-left: 8px;
+	padding: 12px 0px 10px 0px;
+	background-color : #ffffff;
+}
+#navabajo{
+	font-weight : bold;
+}
+h1{
+	font-size: 12pt;
+}
+input {
+	font-size : 8pt;
+}
+#lateral{
+	width: 200px;
+	float:right;
+	background-color: #EBF2FE;
+	border-bottom : 1px solid #cccccc;
+	border-left : 1px solid #cccccc;
+}
+#otras ul{
+	margin : 5px 10px 0px 0px;
+	list-style: none;
+	padding: 0px 0px 0px 4px;
+}
+#otras li{
+	padding-left: 14px;
+	background: transparent url("pack-imagenes/bullet.gif") 0 2px no-repeat;
+	margin-bottom: 10px;
+}
+.titlat{
+	background-color:#68729E;
+	color:#ffffff;
+	font-size:8pt;
+	text-transform : uppercase;
+	padding: 7px 3px 7px 8px;
+	margin: 0px 0px 8px 0px;
+	font-weight : normal;
+	letter-spacing : 2px;
+}
+.cuerpolateral{
+	padding: 5px 4px 13px 10px;
+}
+
+#campotexto{
+	float: left;
+}
+#campotexto input{
+	width:100px;
+}
+#fbuscar form{
+	margin-bottom : 0px;
+	margin-top : 0px;
+}
+#botonbuscar {
+	padding-top : 3px;
+	padding-left: 106px;
+}
+#botonbuscar input{
+	border : 0px none;
+}
+.radio{
+	clear:both;
+}
